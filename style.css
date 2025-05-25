@@ -1,0 +1,13 @@
+h1 {
+    color:maroon;
+    font-style: italic;
+}
+body {
+    color: grey
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    text-align: center;
+}
